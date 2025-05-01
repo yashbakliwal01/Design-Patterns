@@ -1,7 +1,5 @@
 package com.Creational.AbstractFactory;
 
-import com.Creational.Factory.PizzaFactory;
-
 public class AbstractMain {
 
 	public static void main(String[] args) {
